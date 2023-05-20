@@ -1,6 +1,6 @@
 module.exports = {
     data: {
-        name: `sub-menu`
+        name: `example2`
     },
     async execute(interaction, client) {
         await interaction.reply({
