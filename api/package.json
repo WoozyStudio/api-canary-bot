@@ -1,0 +1,16 @@
+{
+    "name": "gatitosworld-api",
+    "version": "1.0.11",
+    "description": "API empleada en MiaUtilidades y bots de la comunidad GatitosWorld.",
+    "main": "./src/index.js",
+    "keywords": [],
+    "author": "Mateo#1337",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^13.8.1",
+        "quick.db": "^9.0.5"
+    },
+    "engines": {
+        "node": "16.x"
+    }
+}
