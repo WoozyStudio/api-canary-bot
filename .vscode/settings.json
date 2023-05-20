@@ -1,0 +1,7 @@
+{
+    "json.format.keepLines": true,
+    "editor.maxTokenizationLineLength": 50000,
+    "[javascript]": {
+        "editor.maxTokenizationLineLength": 5500
+    }
+}
